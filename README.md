@@ -1,4 +1,4 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=plastic"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/#6DB33F?style=plastic"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssgit&show_icons=true&theme=radical)
 ### Hi there 👋
