@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssgit&show_icons=true&theme=radical)
 ### Hi there 👋
 
 <!--
