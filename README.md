@@ -1,7 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssgit&show_icons=true&theme=radical)
 </br>
-<a href="https://rustic-nurse-3ef.notion.site/6fc2df1ae4f74009a0ab627538c8c5c7" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5D5D5D?style=flat&logo=Notion&logoColor=FFFFFF"/></a>
 <!--
 **kssgit/kssgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
